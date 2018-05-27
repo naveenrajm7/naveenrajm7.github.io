@@ -9,6 +9,9 @@ main:
   - title: "About"
     url: /about/
     description: "See Who I am"
+  - title: "Contact"
+    url: /contact/
+    description: "Reach out to me"    
 
   # - title: "Sample Collections"
   #   url: /collection-archive/
