@@ -1,3 +1,5 @@
+{% include analytics.html %}
+
 {% if site.footer_scripts %}
   {% for script in site.footer_scripts %}
     {% if script contains "://" %}
@@ -24,5 +26,5 @@
   {%- endcase -%}
 {% endif %}
 
-{% include analytics.html %}
+
 {% include /comments-providers/scripts.html %}
