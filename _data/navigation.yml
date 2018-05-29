@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Projects"
-    url: /projects/
+    url: "https://github.com/naveenrajm7"
     description: "Click to see my projects"
   - title: "Blog"
     url: /blog/
@@ -11,7 +11,7 @@ main:
     description: "See Who I am"
   - title: "Contact"
     url: /contact/
-    description: "Reach out to me"    
+    description: "Reach out to me"
 
   # - title: "Sample Collections"
   #   url: /collection-archive/
