@@ -1,6 +1,6 @@
 ---
-title: "My First Post"
-excerpt: "This is my first post on my website"
+title: "MarkDown Made Easy"
+excerpt: "Simple intro to MarkDown"
 header:
     image: "https://www.fullstackpython.com/img/logos/markdown.png"
     image_description: "Markdown"
@@ -39,10 +39,10 @@ here is a beginner's guide to Markdown, every section consist of two lines first
 <br>
 
 #### 2. horizontal ruler
-\---
+\-\-\-  
 ---
 
-\___
+\_\_\_  
 ___
 <br>
 #### 3. Text emphasis
@@ -112,14 +112,14 @@ def fun():
 ## Github flavored markdown
 
 ### Table
- Column 1| Column 2
-----------------|----------------
- Row 1.    | Row 2.      
+| Column 1 | Column 2 |  
+| -------- | -------- |  
+| Row 1.   | Row 2.   |   
 
 ###  Emoji
 :+1:
 
- ### to-do list
+### to-do list
 - [ ] didn't do
 - [x] did job
 
