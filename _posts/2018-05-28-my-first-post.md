@@ -12,4 +12,6 @@ tags :
     - first post
 ---
 There is always a **first time** for everything,
-Today on 28th May, 2018 at night 3 a.m I'm writing my **first post**.
+Today on 28th May, 2018 at night 3 a.m I'm writing my **first post**.  
+This blog will captures all the interesting things I do and learn.  
+Thankyou for reading this useless post :wink:  
