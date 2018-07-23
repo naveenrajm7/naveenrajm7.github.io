@@ -1,5 +1,4 @@
 ---
-layout: splash
 title: "500 Internal Server Error Solved and LAMP guide"
 excerpt: "Debugging 500 Internal Server Error and Step by step guide for LAMP"
 header:
