@@ -1,7 +1,7 @@
 ---
 permalink: /privacy/
 title: "Terms and Privacy Policy"
-toc: true
+layout: splash
 ---
 
 ## Privacy Policy
