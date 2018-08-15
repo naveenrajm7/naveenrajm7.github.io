@@ -30,4 +30,4 @@ for gallery view - under MIT license
 using godaddy for domain/custom mail and smtp2go for mail server FREE!
 
 visit us at : [www.healthywayenterprises.com](www.healthywayenterprises.com)
-reach me : [it-support@healthywayenterprises.com](mailto://it-support@healthywayenterprises.com)
+reach me to know more : [it-support@healthywayenterprises.com](mailto://it-support@healthywayenterprises.com)
