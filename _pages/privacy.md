@@ -4,9 +4,14 @@ title: "Terms and Privacy Policy"
 layout: splash
 ---
 
+## Terms of Usage
+
+This blog contains technical content and any information provided on this blog is accurate and true to the best of my knowledge, but there may be omissions, errors or mistakes.
+I reserve the right to change how I manage or run this blog and I may change the focus or content on this blog at any time.
+
 ## Privacy Policy
 
-This blog does not share personal information with third parties nor do I store any information about your visit to this blog other than to analyze and optimize your content and reading experience through the use of cookies.
+This blog does not share personal information with third parties nor do I store any information about your visit to this blog other than to analyse and optimise your content and reading experience through the use of cookies.
 
 You can turn off the use of cookies at anytime by changing your specific browser settings.
 
@@ -40,12 +45,6 @@ If you wish to disable cookies, you may do so through your web browser options. 
 #### Google Analytics
 
 Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
-
-
-#### Google Adsense
-
-Google Adsense, a third party affiliate marketing network, uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Google Adsense Privacy Policy](http://support.google.com/adsense/bin/answer.py?hl=en&answer=48182).  
-Just like this website, my Google Adsense is a work in progress. As the revenue streams evolve, so will this page.
 
 ### Links to Third Party Websites
 I have included links on this website for your use and reference. I am not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own.
