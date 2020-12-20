@@ -14,7 +14,7 @@ tags :
 
 >disclaimer : this content is provided for reference and knowledge purpose only, any other use of this material will be with your own risk
 
-Caesar cipher , also referred by the names additive cipher or shift cipher is a simplest monoalphabetic cipher. In this technique alphabets are converted to number (from 0 to 25 or 1 to  26) to be able to apply mathematical operations on the text.  
+Caesar cipher , also referred by the names additive cipher or shift cipher is a simplest mono alphabetic cipher. In this technique alphabets are converted to number (from 0 to 25 or 1 to  26) to be able to apply mathematical operations on the text.  
 A single secret key is used between the sender and receiver (**K**). the encryption algorithm adds the key to the plaintext character(**P**), the decryption algorithm subtracts the key from cipher text character(**C**).
 
 ### Algorithm

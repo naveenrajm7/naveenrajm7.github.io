@@ -14,8 +14,8 @@ tags :
 Solution to open round problem 2 Christmas gift
 
 ### Problem Statement
-There are **N** houses in the city connected by excatly **N-1** roads. There is excatly 1 shortest path from any house to any other house. The houses are numbered from **1 to N-1**.  
-Since Christmas is about to come so Santa has decided to hide gits in thses houses. Santa will come to city for **M** consecutive days. Each day he will come to house **a** first and will go till house **b** hiding a gift in each house that comes in the path.  
+There are **N** houses in the city connected by exactly **N-1** roads. There is exactly 1 shortest path from any house to any other house. The houses are numbered from **1 to N-1**.  
+Since Christmas is about to come so Santa has decided to hide gifts in these houses. Santa will come to city for **M** consecutive days. Each day he will come to house **a** first and will go till house **b** hiding a gift in each house that comes in the path.  
 Can you tell the maximum number of gifts any houses has after M days.
 
 #### Input format.  
@@ -42,7 +42,7 @@ A single integer representing the maximum number of gifts in any house.
 See the above image. the purple diamonds represent the gifts hidden during Santa's first visit and the red diamonds represent the gifts hidden during Santa's second visit. We can see the houses 2 and 4 has maximum number of gifts hidden. Both are having 2 gifts hidden, hence the answer is 2.
 ### Solution
 **Approach** :
-Direct approach (not optimal) represent the city using a graph object where houses are nodes, the applu dfs to determine the shortest distance and the houses that come between house **u** and **v** , and add 1 to all whenever they were visited . then look for node with largest gifts and print it out. Since I'm pretty sure the below code is not the effecient one possible, Any help to optimize is greatly appreciated either in comments or directly ping [me](/contact/)
+Direct approach (not optimal) represent the city using a graph object where houses are nodes, we apply dfs to determine the shortest distance and the houses that come between house **u** and **v** , and add 1 to all whenever they were visited . then look for node with largest gifts and print it out. Since I'm pretty sure the below code is not the efficient one possible, Any help to optimise is greatly appreciated either in comments or directly ping [me](/contact/)
 #### Implementation
 python 3 code
 

@@ -15,12 +15,12 @@ Solution to open round problem 1 counting leafs
 
 ### Problem Statement
 You are given a tree with N nodes numbered from 0 to N-1. You are also given a node X which you are supposed to delete . You have tell the number of leaf nodes in the tree after deleting the given node. Now that deleting a node deletes all the nodes in the its subtree.  
-In the input you are given a array A, where Is is the parent of ith node. The node with parent -1 is the root of the tree. It is guaranteed that it has excatly one root of the tree.  
+In the input you are given an array A, where Is is the parent of ith node. The node with parent -1 is the root of the tree. It is guaranteed that it has exactly one root of the tree.  
 
 #### Input format.  
 First line contains an integer N - number of nodes in the tree.  
 Second line contains N integers representing the array A.  
-Third line contains an integer representing the nidde to delete.   
+Third line contains an integer representing the nodes to delete.   
 
 #### Output format
 Print an integer representing the number of leaf node in the tree after deleting the given node.

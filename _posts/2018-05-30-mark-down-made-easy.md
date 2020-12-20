@@ -14,8 +14,8 @@ tags :
 So Mark:arrow_down: sorry MarkDown is a light weight Markup language used to write README files, blogs, and pretty much everything when it comes on online content writing
 ### Why Mark:arrow_down: opps! :expressionless: Markdown ?
 When there is a language like HTML for writing webpages why MarkDown ?,
-1. Imagine that you want to write a blog on your website then for just adding link you should use '<a href="some_link">some_text</a>', for making bold text'<strong>text</strong>' uff.. that's lot of tags , if fact more tags that your content.
-1. Internet is not just used by programmers, so everone writes in it and you can't expect everone to know MarkUp laguages like html  
+1. Imagine that I you want to write a blog on your website then for just adding link you should use '<a href="some_link">some_text</a>', for making bold text'<strong>text</strong>' uff.. that's lot of tags , if fact more tags that your content.
+1. Internet is not just used by programmers, so everyone writes in it and you can't expect everyone to know MarkUp languages like html  
 
 &, this brings us to the very advantage of MarkDown __Readability__ also providing all markup features.Hence instead of spending weeks-months to learning HTML. just spend 20-30 minutes to pick up MarkDown and start writing.  
 here is a beginner's guide to Markdown, every section consist of two lines first one showing MarkDown code & second one its output . So let's :heavy_check_mark::arrow_down: hmm.. MarkDown , I think by now you know MarkDown(GitHub flavour) gives emojis :stuck_out_tongue_winking_eye:

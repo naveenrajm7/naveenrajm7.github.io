@@ -15,11 +15,11 @@ Solution to semi final problem 2 flood in the jungle
 
 ### Problem Statement
 
-A group of monkeys ave living Sunderbans invests There are **N** trees in Sunderbans (numbered from **0** to **N-1**) on which these monkeys live. Every year floods hit the forest of Sunderbans The monkeys have a tradition of meeting on a tree after the ﬂood.
+A group of monkeys ave living Sunderbans invests There are **N** trees in Sunderbans (numbered from **0** to **N-1**) on which these monkeys live. Every year floods hit the forest of Sunderbans The monkeys have a tradition of meeting on a tree after the flood.
 
-Last night Sunderbans has been hit hard by a sudden flood and The ﬂood was very strong and it has submerged everything except the mighty trees on which the monkeys live
+Last night Sunderbans has been hit hard by a sudden flood and The flood was very strong and it has submerged everything except the mighty trees on which the monkeys live
 
-All the monkeys now have to meet on some tree. Due to the ﬂood the trees have became weak so jumping from them is dangerous .**Whenever a monkey jumps from a tree A to a tree B, the tree A gets submerged a little while the tree B remains unaffected**. The monkeys don't know how in swim. So they move from one tree to another tree by jumping. Every tree has been assigned a 2D - co ordinate value A monkey can only jump between two tress if
+All the monkeys now have to meet on some tree. Due to the flood the trees have became weak so jumping from them is dangerous .**Whenever a monkey jumps from a tree A to a tree B, the tree A gets submerged a little while the tree B remains unaffected**. The monkeys don't know how in swim. So they move from one tree to another tree by jumping. Every tree has been assigned a 2D - co ordinate value A monkey can only jump between two tress if
 the euclidean distance between them is less than or equal to c, c is called the jumping capacity of the monkeys
 
 The trees have threshold values The threshold value of the  ith tree is given by **ti**. It means that no more than ti monkeys can jump off from the ith tree
@@ -34,7 +34,7 @@ Following N lines contains **xi yi mi ti** - the x-coordinate  of the ith tree, 
 
 #### Output format
 
-One line with space separated integers denoting the numbers of the trees on which the meeting can be held. these numbers should be in ascending order and should be from 0 to N-1 . if there is no tree on which the meeting can heppen then print  -1.
+One line with space separated integers denoting the numbers of the trees on which the meeting can be held. these numbers should be in ascending order and should be from 0 to N-1 . if there is no tree on which the meeting can happen then print  -1.
 
 #### Example
 ##### Input
@@ -52,7 +52,7 @@ Since there are two trees where number of monkeys are greater than threshold val
 
 ### Solution
 **Approach** :
-Not a working solution :cry: . but this is what i did to get 84% test case work , by correctly identify the cases where meeting won't happen and the other test case where the meeting acn happen in all trees. Any help is greatly appreciated either in comments or directly ping [me](/contact/)
+Not a working solution :cry: . but this is what i did to get 84% test case work , by correctly identify the cases where meeting won't happen and the other test case where the meeting can happen in all trees. Any help is greatly appreciated either in comments or directly ping [me](/contact/)
 #### Implementation
 ```python
 import sys
