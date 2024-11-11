@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "mint" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Drax's Home"
+title                    : "Hi, I'm Naveen"
 title_separator          : "|"
-name                     : "Naveenraj"
+name                     : "Naveenraj Muthuraj"
 description              : "Naveenraj's place in the internet."
 url                      : "https://naveenrajm7.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -102,10 +102,10 @@ analytics:
 author:
   name             : "Naveenraj"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "freelancer"
-  location         : "Mysuru, India."
+  bio              : "Grad Student"
+  location         : "Edmonton, Canada."
   email            :
-  uri              : "https://naveenrajm7.github.io"
+  uri              : # "https://naveenrajm7.github.io"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -119,7 +119,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : naveenrajm # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)

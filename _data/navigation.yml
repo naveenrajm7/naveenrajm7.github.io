@@ -1,14 +1,8 @@
 # main links
 main:
-  - title: "Projects"
-    url: "https://github.com/naveenrajm7"
-    description: "Click to see my projects"
   - title: "Blog"
     url: /blog/
     description: "My Blog posts"
-  - title: "About"
-    url: /about/
-    description: "See Who I am"
   - title: "Contact"
     url: /contact/
     description: "Reach out to me"
