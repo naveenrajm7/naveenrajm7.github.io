@@ -55,4 +55,4 @@ This Privacy Policy is effective as of 15.08.2018 and will remain in effect exce
 I reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically.
 
 ### Contact Information
-For any questions or concerns regarding the privacy policy, please send me an email to naveenrajm97@gmail.com.
+For any questions or concerns regarding the privacy policy, please send me an email to naveenrajm97[At]gmail[D0t]com.
