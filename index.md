@@ -16,7 +16,7 @@ I am passionate about open source and have contributed to various projects. I re
 * [Vagrant UTM](https://naveenrajm7.github.io/vagrant_utm/) - Automate your VM setup on Mac
 * [Packer UTM plugin](https://github.com/naveenrajm7/packer-plugin-utm) - Automate building VMs on Mac
 * [UTM Gallery](https://naveenrajm7.github.io/utm-gallery/) - Prebuilt VMs to use on your Mac
-* [UTM Web] - Use your Mac as a home lab, spin up, manage, and connect to your VMs within your browser.
+* [UTM Web](https://github.com/utmapp/UTM/issues/6767#issuecomment-2562320395) - Use your Mac as a home lab, spin up, manage, and connect to your VMs within your browser.
 
 
 ## Publications
